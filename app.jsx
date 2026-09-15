@@ -295,7 +295,7 @@ function App() {
 
   <div className="video-hero-content">
     <h1 className="video-hero-title">
-      REZE STORE <br/>
+      MI TIENDA DOTA 2 <br/>
     </h1>
     
   </div>
