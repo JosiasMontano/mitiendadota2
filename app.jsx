@@ -20,7 +20,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/download_7_ca998a2c-f8a8-4fa8-8747-8a689b807812.gif?v=1741896097&width=637",
             heroe: "Keeper of the Light",
             estado: "Disponible",
-            precio: 15.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
@@ -31,7 +31,7 @@ const sets={
             imagen: "https://collectorscachegift.shop/cdn/shop/files/dota-2-skywrath-secrets-of-the-celestial-ti10-cache-2-set.jpg?v=1756965155",
             heroe: "Skywrath Mage",
             estado: "Disponible",
-            precio: 20.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
@@ -42,7 +42,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/download_6_d1273950-39fa-44bd-a98e-6d3b35995a34.gif?v=1741895828&width=416",
             heroe: "Bristleback",
             estado: "Disponible",
-            precio: 10.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color: "rojo"
@@ -54,7 +54,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/MgxKRJg.gif?v=1741896316&width=600",
             heroe: "Chaos Knight",
             estado: "Disponible",
-            precio: 15.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
@@ -65,7 +65,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/giphy_9_07fd2d9e-22d4-4648-b38c-1dd3e2fc389d.gif?v=1741894881&width=400",
             heroe: "Night Stalker",
             estado: "Disponible",
-            precio: 20.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
@@ -76,7 +76,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/VvAQ7y4.gif?v=1741891341&width=300",
             heroe: "Silencer ",
             estado: "Disponible",
-            precio: 10.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color: "rojo"
@@ -88,7 +88,7 @@ const sets={
             imagen: "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/31/Apocalypse_Unbound_Preview_1.png/revision/latest?cb=20200703042430",
             heroe: "Ancient Apparition",
             estado: "Disponible",
-            precio: 15.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
@@ -99,7 +99,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/0T9voqc.gif?v=1741897170&width=600",
             heroe: "Sniper",
             estado: "Disponible",
-            precio: 20.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
@@ -110,7 +110,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/giphy_7_89fd5457-1ce3-4d81-b610-465aeb18a96b.gif?v=1741896848&width=400",
             heroe: "Shadow Demon",
             estado: "Disponible",
-            precio: 10.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color: "rojo"
@@ -122,7 +122,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/AdNtzba.gif?v=1741986110&width=500",
             heroe: "Death Prophet",
             estado: "Disponible",
-            precio: 15.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
@@ -133,7 +133,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/ysY7mIX.gif?v=1741987203&width=600",
             heroe: "Phantom Assassin",
             estado: "Disruptor",
-            precio: 20.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
@@ -144,7 +144,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/giphy_3_e23fcf23-d53b-4c0d-8e06-85c40392cd18.gif?v=1741889319&width=400",
             heroe: "Juggernaut",
             estado: "Disponible",
-            precio: 10.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color: "rojo"
@@ -156,7 +156,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/f5XIi9Z.gif?v=1741840531&width=600",
             heroe: "Grimstroke",
             estado: "Disponible",
-            precio: 15.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
@@ -167,7 +167,7 @@ const sets={
             imagen: "https://collectorscachegift.shop/cdn/shop/files/dota-2-underlord-ravenous-abyss-ti10-set.jpg?v=1756349941",
             heroe: "Underlord",
             estado: "Disponible",
-            precio: 20.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
@@ -178,7 +178,7 @@ const sets={
             imagen: "https://i.giphy.com/coBGIAoi4841kXBB1X.gif",
             heroe: "Lina",
             estado: "Disponible",
-            precio: 10.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color: "rojo"
@@ -190,7 +190,7 @@ const sets={
             imagen: "https://dota.adquira.me/wp-content/uploads/2021/02/dota-2-jakiro.jpg",
             heroe: "Jakiro",
             estado: "Disponible",
-            precio: 15.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
@@ -201,7 +201,7 @@ const sets={
             imagen: "https://www.vikingdota.com/cdn/shop/files/tXb7r56.gif?v=1741896937&width=600",
             heroe: "Rubick",
             estado: "Disponible",
-            precio: 20.99,
+            precio: 99,
             descripcion: "Este set incluye un conjunto completo de objetos cosméticos para tu héroe favorito en Dota 2. Mejora tu apariencia y destaca en el campo de batalla con este exclusivo set.",
             video: "https://www.youtube.com/embed/9RTGFWFt5hA?si=GLCYBEEjgsh3ySrw",
             color : "morado"
