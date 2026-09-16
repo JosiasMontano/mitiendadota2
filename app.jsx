@@ -325,90 +325,9 @@ function App() {
   <br/>
   <br/>
   <br/>
-
-
-{/*       
-<div className="split-media-layout">
-  
-  <div className="split-media-main">
-   
-    <video className="split-media-gif" autoPlay loop muted playsInline>
-      <source src="https://cdn.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.webm?undefined" type="video/webm" />
-    </video> 
-    
-  </div>
-
-  
-
-  
-  <nav className="split-media-nav">
-    <ul className="split-media-nav-list">
-      <li>
-        <button className="split-media-nav-card" onClick={() => setCurrentView('teams')}>
-          <img className="split-media-nav-icon" src="https://cdn-icons-png.flaticon.com/512/2674/2674996.png" alt="" />
-          <span className="split-media-nav-label">CUENTAS</span>
-        </button>
-      </li>
-      <li>
-        <button className="split-media-nav-card" onClick={() => setCurrentView('grupos')}>
-          <img className="split-media-nav-icon" src="https://png.pngtree.com/png-clipart/20250415/original/pngtree-vs-battle-png-image_20770212.png" alt="" />
-          <span className="split-media-nav-label">BOSTEO</span>
-        </button>
-      </li>
-      <li>
-        <button className="split-media-nav-card" onClick={() => setCurrentView('playoffs')}>
-          <img className="split-media-nav-icon" src="https://png.pngtree.com/png-clipart/20250421/original/pngtree-cross-icon-wrong-sign-vector-with-transparent-background-png-image_20826131.png" alt="" />
-          <span className="split-media-nav-label">INMORTALE</span>
-        </button>
-      </li>
-      <li>
-        <button className="split-media-nav-card" onClick={() => setCurrentView('coliseopasado')}>
-          <img className="split-media-nav-icon" src="https://cdn-icons-png.flaticon.com/512/61/61469.png" alt="" />
-          <span className="split-media-nav-label">JFJFJ</span>
-        </button>
-      </li>
-      <li>
-        <button className="split-media-nav-card" onClick={() => setCurrentView('organizadores')}>
-          <img className="split-media-nav-icon" src="https://cdn-icons-png.flaticon.com/512/2674/2674996.png" alt="" />
-          <span className="split-media-nav-label">CONTACTAR</span>
-        </button>
-      </li>
-    </ul>
-  </nav>
-  <br/>
-  <br/>
-</div>
-        */}             
-          
-            <br/>  
-             <br/>  
-            {/* 
-            <div className="media-container">
-                <div className="video-container">
-                    <iframe 
-                        src={boliviaData.general.video2}
-                        title="Video de Bolivia"
-                        allowFullScreen
-                    ></iframe>
-                </div>
-                <div className="video-container">
-                    <iframe 
-                        src={boliviaData.general.video}
-                        title="Video de Bolivia"
-                        allowFullScreen
-                    ></iframe>
-                </div>
-              
-                
-
-            </div>
-            */}   
-            <br/>
-            <div className="letras" >
-                
-                </div>
-
-
+  <br/>  
+  <br/>  
+           
         </div>
     );
     
