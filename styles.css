@@ -1,4 +1,4 @@
-@import url('https://imgs.search.brave.com/Odxt72sMrN038obg3k3opIY3S3GdsM8M0aVtkNCHgBU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZG90/YS1tbHI0MWltaDZo/Y2MwbDI0LmpwZw');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@800;900&display=swap');
 
 :root {
     --primary: #2c3e50;
@@ -20,7 +20,7 @@ body {
     /* IMAGEN + FILTRO OSCURO TODO EN UNO */
     background: 
         linear-gradient(rgba(10, 10, 25, 0.75), rgba(10, 10, 25, 0.85)), /* este es el filtro oscuro */
-        url('https://images2.alphacoders.com/134/thumb-1920-1344847.png'); /* tu imagen */
+        url('https://imgs.search.brave.com/Odxt72sMrN038obg3k3opIY3S3GdsM8M0aVtkNCHgBU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZG90/YS1tbHI0MWltaDZo/Y2MwbDI0LmpwZw'); /* tu imagen */
 
     background-size: cover;
     background-position: center;
